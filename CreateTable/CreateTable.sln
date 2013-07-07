@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateTable", "CreateTable\CreateTable.vcproj", "{F79F93EF-659F-454E-9612-626B1D1AE5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F79F93EF-659F-454E-9612-626B1D1AE5DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F79F93EF-659F-454E-9612-626B1D1AE5DB}.Debug|Win32.Build.0 = Debug|Win32
+		{F79F93EF-659F-454E-9612-626B1D1AE5DB}.Release|Win32.ActiveCfg = Release|Win32
+		{F79F93EF-659F-454E-9612-626B1D1AE5DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
